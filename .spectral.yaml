@@ -1,0 +1,5 @@
+extends: [[spectral:oas, recommended]]
+rules:
+  operation-description: off
+  operation-tag-defined: off
+  openapi-tags: off
